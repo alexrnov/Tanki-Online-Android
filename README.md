@@ -38,6 +38,8 @@ Work with UI (scrolls, buttons, menu, recyclerView etc.):
   <img src="https://github.com/alexrnov/Files/blob/master/to_android49.jpg" width="750" title="UI">
 </p>
 
+Implementing the function of adding creator tags (for youtube): 
+
 <p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android43.jpg" width="750" title="UI">
 </p>
@@ -49,6 +51,8 @@ Work with UI (scrolls, buttons, menu, recyclerView etc.):
 <p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android45.jpg" width="750" title="UI">
 </p>
+
+Paid nickname renaming:
 
 <p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android41.jpg" width="750" title="UI">
