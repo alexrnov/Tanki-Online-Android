@@ -61,6 +61,6 @@ Paid nickname renaming:
 Creeping lines:
 
 <p align="center">
-  <img src="https://github.com/alexrnov/Files/blob/master/to_android57.jpg" width="750" title="UI">
+  <img src="https://github.com/alexrnov/Files/blob/master/to_android57.gif" width="750" title="UI">
 </p>
 
