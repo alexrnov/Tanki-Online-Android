@@ -3,6 +3,8 @@ Tanki Online Android
 
 Tasks:
 
+Implementing Two-Factor Authentication:
+
 <p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android39.jpg" width="750" title="UI">
 </p>
@@ -12,11 +14,11 @@ Tasks:
 </p>
 
 <p align="center">
-  <img src="https://github.com/alexrnov/Files/blob/master/to_android46.jpg" width="750" title="UI">
+  <img src="https://github.com/alexrnov/Files/blob/master/to_android47.jpg" width="750" title="UI">
 </p>
 
 <p align="center">
-  <img src="https://github.com/alexrnov/Files/blob/master/to_android47.jpg" width="750" title="UI">
+  <img src="https://github.com/alexrnov/Files/blob/master/to_android46.jpg" width="750" title="UI">
 </p>
 
 <p align="center">
