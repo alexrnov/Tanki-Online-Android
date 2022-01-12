@@ -1,7 +1,6 @@
 # Tanki-Online-Android
-Tanki Online Android
 
-Tasks:
+Tasks for Tanki Online (android client and server):
 
 Implementing Two-Factor Authentication:
 
@@ -24,6 +23,8 @@ Implementing Two-Factor Authentication:
 <p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android50.jpg" width="750" title="UI">
 </p>
+
+Work with UI (scrolls, buttons, menu, recyclerView etc.):
 
 <p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android48.jpg" width="750" title="UI">
