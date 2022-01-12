@@ -30,10 +30,6 @@ Implementing Two-Factor Authentication:
 </p>
 
 <p align="center">
-  <img src="https://github.com/alexrnov/Files/blob/master/to_android41.jpg" width="750" title="UI">
-</p>
-
-<p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android42.jpg" width="750" title="UI">
 </p>
 
@@ -51,4 +47,8 @@ Implementing Two-Factor Authentication:
 
 <p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android45.jpg" width="750" title="UI">
+</p>
+
+<p align="center">
+  <img src="https://github.com/alexrnov/Files/blob/master/to_android41.jpg" width="750" title="UI">
 </p>
