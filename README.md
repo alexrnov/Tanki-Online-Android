@@ -36,6 +36,10 @@ Tasks:
 </p>
 
 <p align="center">
+  <img src="https://github.com/alexrnov/Files/blob/master/to_android49.jpg" width="750" title="UI">
+</p>
+
+<p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android43.jpg" width="750" title="UI">
 </p>
 
@@ -45,8 +49,4 @@ Tasks:
 
 <p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android45.jpg" width="750" title="UI">
-</p>
-
-<p align="center">
-  <img src="https://github.com/alexrnov/Files/blob/master/to_android49.jpg" width="750" title="UI">
 </p>
