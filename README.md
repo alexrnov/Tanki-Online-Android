@@ -16,6 +16,18 @@ Tasks:
 </p>
 
 <p align="center">
+  <img src="https://github.com/alexrnov/Files/blob/master/to_android47.jpg" width="750" title="UI">
+</p>
+
+<p align="center">
+  <img src="https://github.com/alexrnov/Files/blob/master/to_android50.jpg" width="750" title="UI">
+</p>
+
+<p align="center">
+  <img src="https://github.com/alexrnov/Files/blob/master/to_android48.jpg" width="750" title="UI">
+</p>
+
+<p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android41.jpg" width="750" title="UI">
 </p>
 
@@ -36,17 +48,5 @@ Tasks:
 </p>
 
 <p align="center">
-  <img src="https://github.com/alexrnov/Files/blob/master/to_android47.jpg" width="750" title="UI">
-</p>
-
-<p align="center">
-  <img src="https://github.com/alexrnov/Files/blob/master/to_android48.jpg" width="750" title="UI">
-</p>
-
-<p align="center">
   <img src="https://github.com/alexrnov/Files/blob/master/to_android49.jpg" width="750" title="UI">
-</p>
-
-<p align="center">
-  <img src="https://github.com/alexrnov/Files/blob/master/to_android50.jpg" width="750" title="UI">
 </p>
